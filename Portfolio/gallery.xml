@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewergallery maxImageWidth="400" maxImageHeight="400" textColor="0xFFFFFF" frameColor="0xFFFFFF" frameWidth="20" stagePadding="40" navPadding="40" thumbnailColumns="3" thumbnailRows="5" navPosition="left" vAlign="top" hAlign="center" title="[portfolio]" enableRightClickOpen="true" backgroundImagePath="" imagePath="" thumbPath="">
+<image>
+	<filename>Ashton.jpg</filename>
+	<caption>This was the logo for a fictitious furniture company. The diamond in the center is an abstract "A"and "D". </caption>	
+</image>
+<image>
+	<filename>NAMA.jpg</filename>
+	<caption>This is an ad used in the Northwest Arkansas Music Awards. It was created during an internship with the Fayetteville Free Weekly. The logo was incorporated across multiple medias.</caption>	
+</image>
+<image>
+	<filename>blendercover.jpg</filename>
+	<caption>This project consisted of recreating a magazine, and make yourself the cover story.</caption>	
+</image>
+<image>
+	<filename>blenderarticle.jpg</filename>
+	<caption>Continuing with the previous project, this was the interior article.</caption>	
+</image>
+<image>
+	<filename>BOTB.jpg</filename>
+	<caption>This logo was created for the 2008 UA Fort Smith Battle of the Bands. Besides being on T-Shirts, this logo was incorporated into every possible facet of the event. This included back-stage passes, and promotional materials. </caption>	
+</image>
+<image>
+	<filename>Breakaway.jpg</filename>
+	<caption>This logo was used for the Sigma Nu Breakaway Annual 5K Run. </caption>	
+</image>
+<image>
+	<filename>FreshMeat.jpg</filename>
+	<caption>The Graphic Design and Art Departments at UA Fort Smith had a design competition for a department-wide cook-out at the school. This was the invitation that was chosen.</caption>	
+</image>
+
+<image>
+	<filename>Moffett.jpg</filename>
+	<caption>This logo was part of a brochure, showcasing all the events at the 2007 Moffett Swap Meet.</caption>	
+</image>
+<image>
+	<filename>Monroe.jpg</filename>
+	<caption>This was a shirt design created for a client. The challenge was designing the shirt based of a singular interview.</caption>	
+</image>
+<image>
+	<filename>FightNight.jpg</filename>
+	<caption>This logo was created for a fictitious competitive events programming business. </caption>	
+</image>
+<image>
+	<filename>us.jpg</filename>
+	<caption>This Business Suite was created for the United States Marshal Service Museum. It consisted of a letterhead, business card, and envelope.</caption>	
+</image>
+<image>
+	<filename>River.jpg</filename>
+	<caption>This logo was created for the River Valley Animal Welfare Coalition. This is a non-profit organization aiding in animal population control.</caption>	
+</image>
+<image>
+	<filename>Russia.jpg</filename>
+	<caption>This was a poster for a foreign film festival.</caption>	
+</image>
+<image>
+	<filename>Wecare.jpg</filename>
+	<caption>This was an ad created for the We Care Foundation, benefiting children diagnosed with cancer and other blood-forming diseases. </caption>	
+</image>
+<image>
+	<filename>Paris.jpg</filename>
+	<caption>This was a logo for the after-party for the NUMAS Awards Banquet at UA Fort Smith.</caption>	
+</image>
+</simpleviewergallery>

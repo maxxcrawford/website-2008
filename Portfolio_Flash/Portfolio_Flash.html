@@ -1,0 +1,64 @@
+<html>
+<head>
+<title>Portfolio_Flash</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!-- ImageReady Preload Script (Portfolio_Flash.psd) -->
+<script type="text/javascript">
+<!--
+
+function newImage(arg) {
+	if (document.images) {
+		rslt = new Image();
+		rslt.src = arg;
+		return rslt;
+	}
+}
+
+function changeImages() {
+	if (document.images && (preloadFlag == true)) {
+		for (var i=0; i<changeImages.arguments.length; i+=2) {
+			document[changeImages.arguments[i]].src = changeImages.arguments[i+1];
+		}
+	}
+}
+
+var preloadFlag = false;
+function preloadImages() {
+	if (document.images) {
+		Home_over = newImage("images/Home-over.gif");
+		preloadFlag = true;
+	}
+}
+
+// -->
+</script>
+<!-- End Preload Script -->
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="preloadImages();">
+<!-- ImageReady Slices (Portfolio_Flash.psd) -->
+<table id="Table_01" width="800" height="600" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td colspan="3">
+			<img src="images/Portfolio_Flash_01.gif" width="800" height="12" alt=""></td>
+	</tr>
+	<tr>
+		<td rowspan="2">
+			<img src="images/Portfolio_Flash_02.gif" width="229" height="588" alt=""></td>
+		<td>
+			<a href="#"
+				onmouseover="changeImages('Home', 'images/Home-over.gif'); return true;"
+				onmouseout="changeImages('Home', 'images/Home.gif'); return true;"
+				onmousedown="changeImages('Home', 'images/Home-over.gif'); return true;"
+				onmouseup="changeImages('Home', 'images/Home-over.gif'); return true;">
+				<img name="Home" src="images/Home.gif" width="538" height="100" border="0" alt=""></a></td>
+		<td rowspan="2">
+			<img src="images/Portfolio_Flash_04.gif" width="33" height="588" alt=""></td>
+	</tr>
+	<tr>
+		<td>
+			<img src="images/Portfolio_Flash_05.gif" width="538" height="488" alt=""></td>
+	</tr>
+</table>
+<!-- End ImageReady Slices -->
+</body>
+</html>
